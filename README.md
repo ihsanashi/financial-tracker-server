@@ -1,5 +1,5 @@
 ## Running the project locally
 
 ```zsh
-dotnet run --launch-profile https
+dotnet watch --launch-profile https
 ```
